@@ -1,0 +1,1 @@
+This notebook utilizes open source libraries like osmnx and nomanatum for calculating the shortest route from origin to destination and for geocoding. This does not take in account the real time traffic data.
